@@ -2,7 +2,7 @@
 
 This is my implementation of Lasso regression using an optimized version of the coordinate descent algorithm.
 
-The data was scraped from WineEnthusiast during the week of June 15th, 2017 and can be found on the analytics website Kaggle. This dataset provides a variety of features, the points, description (review), variety, country, province etc. FThe feature vectors for each review have been provided for this project.
+The data was scraped from WineEnthusiast during the week of June 15th, 2017 and can be found on the analytics website Kaggle. This dataset provides a variety of features, the points, description (review), variety, country, province etc. The feature vectors for each review have been provided for this project.
 
 File | Description
 ---- | -----------
